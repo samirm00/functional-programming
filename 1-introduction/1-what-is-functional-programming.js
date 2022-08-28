@@ -4,11 +4,6 @@
 
     - Functional programming (FP) : is a paradigm of building computer programs using expressions and functions without mutating state and data.
 
-    Why functional programming ?
-    ============================
-
-    - Functional programming amis to write a better , cleaner and more bug resistant code by using pure functions which are less likely to have bugs. 
-
 */
 
 
