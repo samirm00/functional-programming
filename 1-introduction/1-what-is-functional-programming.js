@@ -29,7 +29,7 @@ const getId = (a) => specialNumber * a;
 
 // getId is NOT a pure function, because it is using a global variable `specialNumber`  
 // if the value of `specialNumber` changed then we will have 
-// different input for the same input. 
+// different output for the same input. 
 
 
 // Example : 
