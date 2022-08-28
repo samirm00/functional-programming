@@ -1,0 +1,24 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirm00/functional-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirm00/functional-programming/issues"
+  },
+  "homepage": "https://github.com/samirm00/functional-programming#readme",
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "sanctuary": "^3.1.0"
+  }
+}

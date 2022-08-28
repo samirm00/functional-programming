@@ -1,0 +1,17 @@
+{
+    "study": {
+      "eval": true,
+      "environment": true,
+      "tests": [".spec.js", ".test.js"],
+      "type": "module",
+      "save": true,
+      "newFile": true,
+      "ast": true,
+      "openIn": "jsviz2",
+      "trace": true,
+      "dark": false
+    },
+    "render": {
+      "save": true
+    }
+  }
