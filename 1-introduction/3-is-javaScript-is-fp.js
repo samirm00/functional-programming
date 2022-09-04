@@ -107,5 +107,21 @@ console.log( innerFunction() ); // 3
 const add = (num1, num2) => num1 + num2;
 
 
-// 5- spread operator :  page 20
-// 
+// 5- spread operator :  
+// Using the spread operator helps write a shorter, more concise code
+
+// Rest operator
+const minNumber = (...args) => Math.min(...args);
+
+console.log( minNumber(10, 2, 3,4, 5, 12));
+
+// It can also be used to join arrays and objects.
+
+// How to work with JavaScript ?
+// THe latest version of JavaScript is E10 , which is not supported by all browsers , therefore
+// We can use transpiler to convert ES10 TO ES5, which is supported by all browsers.
+// The most popular transpiler for JavaScript is Babel https://babeljs.io/
+
+// Using typeScript is also a good option http:/​/​www.​typescriptlang.​org/​
+
+// As for testing a nice library for that is https://jasmine.github.io/
