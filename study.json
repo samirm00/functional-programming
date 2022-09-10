@@ -9,7 +9,7 @@
       "ast": true,
       "openIn": "jsviz2",
       "trace": true,
-      "dark": false
+      "dark": true
     },
     "render": {
       "save": true
