@@ -2,7 +2,8 @@
     What is functional programming ? 
     ===============================
 
-    - Functional programming (FP) : is a paradigm of building computer programs using expressions and functions without mutating state and data.
+    - Functional programming (FP) : is a paradigm of building computer programs using 
+    expressions and functions without mutating state and data.
 
 */
 
@@ -31,7 +32,9 @@ const getId = (a) => specialNumber * a;
 let id = 0 ;
 const getNewId  = () => ++id;
 
-// getNewId is NOT a pure function 1- it uses a non local variable , 2- it has a side effect on the global variable `id`
+// getNewId is NOT a pure function 
+// 1- it uses a non local variable 
+// 2- it has a side effect on the global variable `id`
 
 
 /*
